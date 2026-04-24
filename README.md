@@ -1,4 +1,4 @@
-# 🏦 Bank Marketing Classification — AMS 580 Team Project
+# 🏦 Bank Marketing Classification
 
 > **Predicting whether a bank client will subscribe to a term deposit using Machine Learning**
 
