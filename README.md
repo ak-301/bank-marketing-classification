@@ -195,8 +195,4 @@ Based on the UCI Bank Marketing Dataset.
 - SHAP Documentation  
 - imbalanced-learn (SMOTE)
 
----
 
-## 📝 License
-
-Academic project — AMS 580
